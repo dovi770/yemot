@@ -1,0 +1,1 @@
+<?php echo 'read=t-בדיקת מערכת.s-shalom=hangup'; ?>
