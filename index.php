@@ -1,0 +1,1 @@
+<?php echo 'read=s-shalom=hangup'; ?>
