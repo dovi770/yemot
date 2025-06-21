@@ -1,4 +1,5 @@
-yemot-podcast-script/
-├── api/
-│   └── index.php
-└── vercel.json
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/api/index.php" }
+  ]
+}
